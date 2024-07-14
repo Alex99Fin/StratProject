@@ -6,7 +6,7 @@
 
     Les données pour cette étude proviennent exclusivement des indices de Bank of America Investment Grade pour les zones Euro et US. Les caractéristiques des données sont les suivantes :
 
-        Indices : Segmentés par notation et maturité (ex. IG_EU_AAA_1-3Y).
+        Indices : Segmentés par notation et maturité (ex. IG_AAA_Euro_1-3Y).
         Fréquence : Hebdomadaire.
         Période : Du 07 janvier 2000 au 31 mai 2024.
 
